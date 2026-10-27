@@ -1,6 +1,6 @@
-# VideoVerse
+# VidVerse
 
-VideoVerse is a full-stack, video streaming web application inspired by YouTube. Built on the MERN stack (MongoDB, Express, React, Node.js), it supports core video sharing operations, user subscriptions, custom video playlists, search filtering, and channel performance metrics. 
+VidVerse is a full-stack, video streaming web application inspired by YouTube. Built on the MERN stack (MongoDB, Express, React, Node.js), it supports core video sharing operations, user subscriptions, custom video playlists, search filtering, and channel performance metrics. 
 
 The application utilizes an express backend server to handle secure data transactions, MongoDB aggregation pipelines to efficiently fetch relational data (like view metrics and subscription counts), and a React client layout styled with Tailwind CSS. Media uploads are handled through Multer and stored on Cloudinary.
 
